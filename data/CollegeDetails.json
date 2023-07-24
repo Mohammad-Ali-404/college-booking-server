@@ -1,0 +1,256 @@
+ [
+      {
+        "id": 1,
+        "name": "Harmony University",
+        "image": "https://i.ibb.co/1ZGVqMM/1.jpg",
+        "admission_process": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "events": [
+          {
+            "name": "Annual Fest",
+            "date": "2023-10-15",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          },
+          {
+            "name": "Sports Meet",
+            "date": "2023-11-20",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          }
+        ],
+        "research_works": [
+          {
+            "title": "Research Paper 1",
+            "authors": "John Doe, Jane Smith",
+            "publication_date": "2023-05-01",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          },
+          {
+            "title": "Research Paper 2",
+            "authors": "Alice Johnson",
+            "publication_date": "2023-07-10",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          }
+        ],
+        "sports_categories": [
+          {
+            "name": "Football",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          },
+          {
+            "name": "Basketball",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Elysium Institute",
+        "image": "https://i.ibb.co/0QTRqRy/2.jpg",
+        "admission_process": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "events": [
+          {
+            "name": "Annual Sports Day",
+            "date": "2023-09-25",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          },
+          {
+            "name": "Literary Conference",
+            "date": "2023-11-10",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          }
+        ],
+        "research_works": [
+          {
+            "title": "Research Paper 15",
+            "authors": "Mia Anderson, Ethan Brown",
+            "publication_date": "2023-04-25",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          },
+          {
+            "title": "Research Paper 16",
+            "authors": "James Wilson",
+            "publication_date": "2023-08-10",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          }
+        ],
+        "sports_categories": [
+          {
+            "name": "Wrestling",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          },
+          {
+            "name": "Swimming",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Aurora College",
+        "image": "https://i.ibb.co/gPCvNk4/3.jpg",
+        "admission_process": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "events": [
+          {
+            "name": "Tech Expo",
+            "date": "2023-09-28",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          },
+          {
+            "name": "Cultural Week",
+            "date": "2023-11-18",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          }
+        ],
+        "research_works": [
+          {
+            "title": "Research Paper 17",
+            "authors": "Daniel Johnson, Mia Davis",
+            "publication_date": "2023-05-01",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          },
+          {
+            "title": "Research Paper 18",
+            "authors": "William Brown",
+            "publication_date": "2023-07-15",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          }
+        ],
+        "sports_categories": [
+          {
+            "name": "Fencing",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          },
+          {
+            "name": "Gymnastics",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Solstice University",
+        "image": "https://i.ibb.co/JqSc69y/4.jpg",
+        "admission_process": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "events": [
+          {
+            "name": "Tech Symposium",
+            "date": "2023-09-20",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          },
+          {
+            "name": "Literary Fest",
+            "date": "2023-11-12",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          }
+        ],
+        "research_works": [
+          {
+            "title": "Research Paper 19",
+            "authors": "Sophie Johnson, Benjamin Adams",
+            "publication_date": "2023-04-18",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          },
+          {
+            "title": "Research Paper 20",
+            "authors": "Chloe Wilson",
+            "publication_date": "2023-07-22",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          }
+        ],
+        "sports_categories": [
+          {
+            "name": "Track and Field",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          },
+          {
+            "name": "Soccer",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Zenith College",
+        "image": "https://i.ibb.co/3W6xTtD/5.jpg",
+        "admission_process": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "events": [
+          {
+            "name": "Tech Symposium",
+            "date": "2023-09-20",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          },
+          {
+            "name": "Literary Fest",
+            "date": "2023-11-12",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          }
+        ],
+        "research_works": [
+          {
+            "title": "Research Paper 19",
+            "authors": "Sophie Johnson, Benjamin Adams",
+            "publication_date": "2023-04-18",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          },
+          {
+            "title": "Research Paper 20",
+            "authors": "Chloe Wilson",
+            "publication_date": "2023-07-22",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          }
+        ],
+        "sports_categories": [
+          {
+            "name": "Track and Field",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          },
+          {
+            "name": "Soccer",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Stellar Academy",
+        "image": "https://i.ibb.co/7vvGHfM/6.jpg",
+        "admission_process": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "events": [
+          {
+            "name": "Tech Symposium",
+            "date": "2023-09-20",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          },
+          {
+            "name": "Literary Fest",
+            "date": "2023-11-12",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          }
+        ],
+        "research_works": [
+          {
+            "title": "Research Paper 19",
+            "authors": "Sophie Johnson, Benjamin Adams",
+            "publication_date": "2023-04-18",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          },
+          {
+            "title": "Research Paper 20",
+            "authors": "Chloe Wilson",
+            "publication_date": "2023-07-22",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          }
+        ],
+        "sports_categories": [
+          {
+            "name": "Track and Field",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          },
+          {
+            "name": "Soccer",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          }
+        ]
+      }
+    ]
+
+  

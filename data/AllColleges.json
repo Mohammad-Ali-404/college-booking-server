@@ -1,0 +1,362 @@
+[
+    {
+      "id": 1,
+      "name": "Ivy League University",
+      "image": "https://i.ibb.co/B4tjQH0/1.jpg",
+      "rating": 4.5,
+      "admission_date": "2023-09-01",
+      "research_count": 35,
+      "events": [
+        {
+          "name": "Tech Fest",
+          "date": "2023-09-28",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        },
+        {
+          "name": "Cultural Week",
+          "date": "2023-11-18",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        }
+      ],
+      "sports": [
+        {
+          "name": "Basketball",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        },
+        {
+          "name": "Badminton",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Stellar State University",
+      "image": "https://i.ibb.co/w0rjVv3/2.jpg",
+      "rating": 4.2,
+      "admission_date": "2023-08-15",
+      "research_count": 28,
+      "events": [
+        {
+          "name": "Science Expo",
+          "date": "2023-09-15",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        },
+        {
+          "name": "Literary Fest",
+          "date": "2023-10-20",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        }
+      ],
+      "sports": [
+        {
+          "name": "Football",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        },
+        {
+          "name": "Tennis",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Global Knowledge Institute",
+      "image": "https://i.ibb.co/KsVY3W7/3.jpg",
+      "rating": 4.8,
+      "admission_date": "2023-10-01",
+      "research_count": 42,
+      "events": [
+        {
+          "name": "Annual Fest",
+          "date": "2023-11-30",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        },
+        {
+          "name": "Science Symposium",
+          "date": "2024-02-18",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        }
+      ],
+      "sports": [
+        {
+          "name": "Volleyball",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        },
+        {
+          "name": "Swimming",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Harmony University",
+      "image": "https://i.ibb.co/ChJwhpH/4.jpg",
+      "rating": 4.1,
+      "admission_date": "2023-07-20",
+      "research_count": 30,
+      "events": [
+        {
+          "name": "Tech Expo",
+          "date": "2023-08-18",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        },
+        {
+          "name": "Literary Meetup",
+          "date": "2023-09-25",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        }
+      ],
+      "sports": [
+        {
+          "name": "Cricket",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        },
+        {
+          "name": "Table Tennis",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Tech Innovators College",
+      "image": "https://i.ibb.co/74YfFN0/5.jpg",
+      "rating": 4.6,
+      "admission_date": "2023-08-25",
+      "research_count": 38,
+      "events": [
+        {
+          "name": "Annual Day",
+          "date": "2023-09-20",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        },
+        {
+          "name": "Sports Meet",
+          "date": "2023-11-08",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        }
+      ],
+      "sports": [
+        {
+          "name": "Hockey",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        },
+        {
+          "name": "Chess",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Academic Excellence University",
+      "image": "https://i.ibb.co/wS6FPzF/6.jpg",
+      "rating": 4.3,
+      "admission_date": "2023-09-10",
+      "research_count": 31,
+      "events": [
+        {
+          "name": "Tech Symposium",
+          "date": "2023-10-10",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        },
+        {
+          "name": "Cultural Fest",
+          "date": "2023-12-05",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        }
+      ],
+      "sports": [
+        {
+          "name": "Soccer",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        },
+        {
+          "name": "Athletics",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Renaissance University",
+      "image": "https://i.ibb.co/qM54gHh/7.jpg",
+      "rating": 4.0,
+      "admission_date": "2023-07-25",
+      "research_count": 26,
+      "events": [
+        {
+          "name": "Tech Week",
+          "date": "2023-08-15",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        },
+        {
+          "name": "Literary Symposium",
+          "date": "2023-09-28",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        }
+      ],
+      "sports": [
+        {
+          "name": "Rugby",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        },
+        {
+          "name": "Gymnastics",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Enigma Institute of Technology",
+      "image": "https://i.ibb.co/xz2TJKY/8.jpg",
+      "rating": 4.7,
+      "admission_date": "2023-10-05",
+      "research_count": 37,
+      "events": [
+        {
+          "name": "Cultural Gala",
+          "date": "2023-11-10",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        },
+        {
+          "name": "Tech Expo",
+          "date": "2023-12-20",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        }
+      ],
+      "sports": [
+        {
+          "name": "Volleyball",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        },
+        {
+          "name": "Tennis",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Prestige Academy",
+      "image": "https://i.ibb.co/0s4hwg2/9.jpg",
+      "rating": 4.4,
+      "admission_date": "2023-08-20",
+      "research_count": 32,
+      "events": [
+        {
+          "name": "Tech Carnival",
+          "date": "2023-09-18",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        },
+        {
+          "name": "Cultural Extravaganza",
+          "date": "2023-10-30",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        }
+      ],
+      "sports": [
+        {
+          "name": "Badminton",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        },
+        {
+          "name": "Basketball",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Frontier Research University",
+      "image": "https://i.ibb.co/W2QFm5p/10.jpg",
+      "rating": 4.9,
+      "admission_date": "2023-07-30",
+      "research_count": 40,
+      "events": [
+        {
+          "name": "Annual Fest",
+          "date": "2023-08-28",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        },
+        {
+          "name": "Literary Meet",
+          "date": "2023-09-30",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        }
+      ],
+      "sports": [
+        {
+          "name": "Football",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        },
+        {
+          "name": "Cricket",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Grandeur International University",
+      "image": "https://i.ibb.co/BN8k8cW/11.jpg",
+      "rating": 4.3,
+      "admission_date": "2023-09-05",
+      "research_count": 29,
+      "events": [
+        {
+          "name": "Science Symposium",
+          "date": "2023-10-10",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        },
+        {
+          "name": "Tech Fest",
+          "date": "2023-11-20",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        }
+      ],
+      "sports": [
+        {
+          "name": "Basketball",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        },
+        {
+          "name": "Tennis",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Vanguard Business School",
+      "image": "https://i.ibb.co/LCnfmDc/12.jpg",
+      "rating": 4.6,
+      "admission_date": "2023-08-10",
+      "research_count": 34,
+      "events": [
+        {
+          "name": "Cultural Week",
+          "date": "2023-09-10",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        },
+        {
+          "name": "Tech Expo",
+          "date": "2023-10-15",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        }
+      ],
+      "sports": [
+        {
+          "name": "Football",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        },
+        {
+          "name": "Volleyball",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        }
+      ]
+    }
+  ]

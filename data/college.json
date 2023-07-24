@@ -1,0 +1,77 @@
+[
+      {
+        "id": 1,
+        "name": "Harmony University",
+        "image": "https://i.ibb.co/1ZGVqMM/1.jpg",
+        "admissionDates": "Fall semester: Sep 1 - Dec 15",
+        "events": [
+          { "name": "Annual Cultural Fest", "date": "Nov 15-17" },
+          { "name": "Research Symposium", "date": "Apr 20-22" }
+        ],
+        "researchHistory": "Renowned for research in environmental sustainability and biotechnology.",
+        "sports": "Soccer, Basketball, Tennis, Swimming"
+      },
+      {
+        "id": 2,
+        "name": "Elysium Institute",
+        "image": "https://i.ibb.co/0QTRqRy/2.jpg",
+        "admissionDates": "Spring semester: Oct 1 - Feb 28",
+        "events": [
+          { "name": "Tech Expo", "date": "Mar 10-12" },
+          { "name": "Elysium Arts Week", "date": "Apr 25-30" }
+        ],
+        "researchHistory": "Known for groundbreaking research in artificial intelligence and robotics.",
+        "sports": "Football, Track and Field"
+      },
+      {
+        "id": 3,
+        "name": "Aurora College",
+        "image": "https://i.ibb.co/gPCvNk4/3.jpg",
+        "admissionDates": "Rolling admissions",
+        "events": [
+          { "name": "Aurora Fest", "date": "May 1-5" },
+          { "name": "Science Fair", "date": "Oct 5-7" }
+        ],
+        "researchHistory": "Contributions to space research and astronomy, with a dedicated observatory.",
+        "sports": "Various sports activities"
+      },
+      {
+        "id": 4,
+        "name": "Solstice University",
+        "image": "https://i.ibb.co/JqSc69y/4.jpg",
+        "admissionDates": "Fall semester: Sep 15 - Dec 31",
+        "events": [
+          { "name": "Solstice Carnival", "date": "Nov 20-22" },
+          { "name": "Tech Innovations Expo", "date": "Mar 5-7" }
+        ],
+        "researchHistory": "Leader in renewable energy research and sustainable architecture.",
+        "sports": "Volleyball, Cricket, Badminton, Athletics"
+      },
+      {
+        "id": 5,
+        "name": "Zenith College",
+        "image": "https://i.ibb.co/3W6xTtD/5.jpg",
+        "admissionDates": "Summer semester: Mar 1 - May 31",
+        "events": [
+          { "name": "Zenith Fest", "date": "Jun 10-12" },
+          { "name": "Startup Summit", "date": "Sep 15-17" }
+        ],
+        "researchHistory": "Pioneer in computer science and cybersecurity research.",
+        "sports": "Table Tennis, Chess, Swimming"
+      },
+      {
+        "id": 6,
+        "name": "Stellar Academy",
+        "image": "https://i.ibb.co/7vvGHfM/6.jpg",
+        "admissionDates": "Fall semester: Aug 15 - Nov 30",
+        "events": [
+          { "name": "Stellar Arts Week", "date": "Oct 20-25" },
+          { "name": "Science Symposium", "date": "Mar 15-18" }
+        ],
+        "researchHistory": "Renowned for contributions to astronomy and astrophysics.",
+        "sports": "Basketball, Baseball, Karate"
+      }
+]
+
+
+  
